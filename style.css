@@ -22,3 +22,18 @@
   text-align: center;
   padding: 50px;
 }
+
+.cajota{
+  border-style: solid;
+  border-color: red;
+  border-radius: 50px;
+  margin-left: 75px;
+  margin-right: 75px;
+}
+
+.segunda{
+  text-align: right;
+  color: green;
+  font-size: 25px;
+  font-style: oblique;
+}
